@@ -63,3 +63,5 @@ Com a API rodando, inicie o aplicativo mobile.
 ### **Observação Importante**
 
 Para que o aplicativo se conecte à API, eles devem estar na mesma rede. Certifique-se de que a `API_URL` no arquivo `anime.ts` esteja apontando para o endereço IP local da sua máquina (por exemplo, `http://192.168.x.x:3000/api/animes`), não para `localhost`, a menos que você esteja usando um emulador.
+
+[Link para a API](https://github.com/GelsonBario/AnimeAPI)
