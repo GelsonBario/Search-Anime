@@ -1,0 +1,1 @@
+export const API_URL = 'http://192.168.10.4:3000/api/animes';
